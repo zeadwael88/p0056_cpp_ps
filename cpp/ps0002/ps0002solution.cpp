@@ -1,22 +1,7 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
 #include "hadhod.cpp"
 #include "easylearn.cpp"
 using namespace std;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 int main()
 {
@@ -42,100 +27,11 @@ int main()
     double result = 83.8571429;
 
     //فاتورة الكهربا لخط انتاج في مصر
-    double electricityBill = 332188737363636.64564546;
+    double electricityBill = 332188737363636.64564546; // we don't need more than 2 digits for piatres
 
     //عمر أشخاص كبار و صغار ف السن بالثانية
     long ageInSeconds = 420480000;
 
     return 1;
 }
-
-
-
-
-
-//
-//int main()
-//{
-//
-//
-//
-//
-//
-//
-//
-//
-//   //cout << " *********************************\n";
-//   //cout << " *********************************\n";
-//   //cout << " *********************************\n";
-//   //cout << " *********************************\n";
-//
-//
-//    //cout << "*     *\n";
-//    //cout << "*     *\n";
-//    //cout << "* * * *\n";
-//    //cout << "*     *\n";
-//    //cout << "*     *\n";
-//    ////////////////////////////////////
-//  /* cout << " *********************************\n";
-//   cout << " name: Hajar saeed AbduAziz\n";
-//   cout <<" age:39 years\n";
-//   cout << " city : Ciro\n";
-//   cout << " country: Egypt\n";
-//   cout << " *********************************\n";
-//
-//   cout << "I Love Programming \n\nI promise to be the best develober ever !\n\n";
-//   
-//   cout << "I know it will take sometime to practice, but i will achieve my goal \n\n";
-//   cout << "Best regards\n Hajar saeed makhlof";*/
-//  
-//
-//    /*
-//   
-//    cout << "please enter rectangle length ,  width: \n";
-//    int width , length ;
-//   
-//  
-//    cin >> length >> width ;
-//
-//   
-//
-//    cout << "the area of rectangle with length  "<<length << " and width "<< width << " = " << length * width;
-//
-//    */
-//
-// 
-//
-//    //firstQuestion();
-//   // secondQuestion();
-//  //  question7();
-//   // question9();
-//   // question10();
-//   // question14();
-//   // question15();
-//   // question17();
-//   // question19();
-//   // question20();
-//    //question21();
-//   // question22();
-//   // question31();
-//    //question35();
-//   // question39();
-//   // question1();
-//   // question40();
-//    //question42();
-//  //question43();
-//    // question47();
-//    // question48();
-//
-//
-//
-//   
-//   
-// 
-//
-//   
-//
-//
-//}
-
+// great work 😎 10/10 ⭐
