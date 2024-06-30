@@ -6,8 +6,9 @@ int main()
 {
     int x,y,z;
     cin >> x >> y >> z;
-    int sum=x+y+z;
+    // int sum=x+y+z;
     cout << "---------" << endl;
-    cout << sum;
+    cout << x + y + z;
     return 0;
 }
+// great work 😎 10/10 ⭐
