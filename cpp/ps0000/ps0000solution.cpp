@@ -2,11 +2,10 @@
 using namespace std;
 int main(void)
 {
-	cout << "Hello, World!";
-		return 0;
+	cout << "Hello, World!\n";
+	return 0;
 }
-
-
+// great work 😎 9/10 ⭐
 
 
 /*@include <"iostream.h"> in c++ the first statement should start with # its a preprocessor directive , inside the <> it should not contain double quotation
