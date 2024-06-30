@@ -11,8 +11,9 @@ int main(void)
     // Remove /n since it's not wanted and we only want one line
     // Each line of code must end with a semicolon
 
-    std::cout << "Hello, World!";
+    std::cout << "Hello, World!" << std::endl;
 
-  // You must return 0 in main function
-  return 0;
+    // You must return 0 in main function
+    return 0;
 }
+// great work 😎 9.5/10 ⭐
