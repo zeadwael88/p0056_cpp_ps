@@ -1,10 +1,11 @@
-#include <iostream>
+#include <iostream> // 2/2
 
 using namespace std;
 
-int main()
+int main() // 1/1
 {
-  cout << "hello, world" <<"\n" ;
+  cout << "Hello, World\n"; // 3/4
 
-  return 0;
+  return 0; // 1/1
 }
+// great work 😎 9/10 ⭐
