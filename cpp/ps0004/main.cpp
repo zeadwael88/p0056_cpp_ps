@@ -26,4 +26,4 @@ int main()
 
     return 0;
 }
-// good work 👍 4.5/10
+// good work 👍 5/10
